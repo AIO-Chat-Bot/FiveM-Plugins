@@ -1,0 +1,7 @@
+{
+    "STATUS_TEXT" : "PROJECT_NAME: {ONLINE}/{SLOTS}",
+    "SERVER_IP" : "IP:PORT",
+    "Type_Of_Status" : "TYPE OF STATUS LIKE: STREAMING, ONLINE AND ETC",
+    "SERVER_MAX_SLOTS" : "MAX_SERVER_SLOTS",
+    "update_in_ms" : 1000
+}
